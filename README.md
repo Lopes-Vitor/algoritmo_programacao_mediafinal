@@ -12,4 +12,4 @@
    - Fim Enquanto
  - Fim
 
-![Isso é uma imagem]()
+![Isso é uma imagem](https://github.com/Lopes-Vitor/ac2_algoritmos_ex3/blob/main/fluxograma%20atividade%203.png)
