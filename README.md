@@ -10,5 +10,5 @@ inicio
     - Fazer o calculo da media final
     - Exibir a nota final do aluno
    - Fim Enquanto
-  - Fim Enquanto
+ - Fim Enquanto
 - Fim
