@@ -1,7 +1,7 @@
 # ac2_algoritmos_ex3
 # exercicio media final
 #
--inicio
+- inicio
  - Enquanto existem disciplinas? FAÇA
    - Enquanto existem alunos? FAÇA
      - Receber as notas referentes a AC1,AC2,AG e AF
