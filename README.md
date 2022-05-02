@@ -1,4 +1,4 @@
-# ac2_algoritmos_ex3
+# algoritmo_programacao_ex3
 # exercicio media final
 #
 - inicio
