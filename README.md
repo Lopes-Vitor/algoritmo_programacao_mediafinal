@@ -8,7 +8,6 @@
      - Fazer o calculo da media final
      - Exibir a nota final do aluno
     - Fim Enquanto
-   - Fim Enquanto
  - Fim
 
 ![Isso é uma imagem](https://github.com/Lopes-Vitor/algoritmo_programacao_vagaespecial/blob/main/fluxograma.png)
