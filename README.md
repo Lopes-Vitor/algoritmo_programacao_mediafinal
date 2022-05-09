@@ -10,4 +10,4 @@
     - Fim Enquanto
  - Fim
 
-![Isso é uma imagem](https://github.com/Lopes-Vitor/algoritmo_programacao_vagaespecial/blob/main/fluxograma.png)
+![Isso é uma imagem](https://github.com/Lopes-Vitor/algoritmo_programacao_mediafinal/blob/main/fluxograma%20atividade%203.png)
