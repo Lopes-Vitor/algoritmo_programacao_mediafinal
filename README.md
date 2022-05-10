@@ -8,4 +8,4 @@
   - Exibir a nota final do aluno
 - **Fim**
 
-![Isso é uma imagem](https://github.com/Lopes-Vitor/algoritmo_programacao_mediafinal/blob/main/fluxograma%20atividade%203.png)
+![Isso é uma imagem](https://github.com/Lopes-Vitor/algoritmo_programacao_mediafinal/blob/main/fluxograma%20atividade%203%20(1).png)
