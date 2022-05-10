@@ -3,8 +3,9 @@
 #
 - **inicio**
   - Receber as notas referentes a AC1,AC2,AG e AF
-  - Fazer o calculo do peso de cada avaliacao
-  - Fazer o calculo da media final
+  - Mostrar o peso de cada avaliacao: Peso AC1:0.15, Peso AC2:0.3, Peso AG:0.1, Peso AF:0.45
+  - Mostrar a formula de calculo do peso: Peso = PesoDaProva * NotaDaProva
+  - Somar todas as notas
   - Exibir a nota final do aluno
 - **Fim**
 
